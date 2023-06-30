@@ -2,7 +2,6 @@
   {
     "listing": "/listing.html",
     "items": [
-      "/mezotel.html",
       "/ekstramuralvenozinvazyon.html",
       "/adipoz.html",
       "/akutinflamasyon.html",
@@ -44,6 +43,7 @@
       "/meme.html",
       "/metaplazi.html",
       "/metastaz.html",
+      "/mezotel.html",
       "/mide.html",
       "/nazofarenks.html",
       "/noroendokrin.html",
@@ -64,7 +64,6 @@
       "/venozinvazyon.html",
       "/virus.html",
       "/yazarlar.html",
-      "/yonetim-gelistirme.html",
       "/gliom.html",
       "/hacettepecom.html",
       "/gastrit.html",
@@ -78,7 +77,6 @@
   {
     "listing": "/listing2.html",
     "items": [
-      "/mezotel.html",
       "/ekstramuralvenozinvazyon.html",
       "/adipoz.html",
       "/akutinflamasyon.html",
@@ -120,6 +118,7 @@
       "/meme.html",
       "/metaplazi.html",
       "/metastaz.html",
+      "/mezotel.html",
       "/mide.html",
       "/nazofarenks.html",
       "/noroendokrin.html",
@@ -140,7 +139,6 @@
       "/venozinvazyon.html",
       "/virus.html",
       "/yazarlar.html",
-      "/yonetim-gelistirme.html",
       "/gliom.html",
       "/hacettepecom.html",
       "/gastrit.html",
