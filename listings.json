@@ -7,6 +7,7 @@
       "/akut-inflamasyon.html",
       "/amiloid.html",
       "/ampulla-vater.html",
+      "/bs.html",
       "/bakteri.html",
       "/tumor-yayilimi.html",
       "/karaciger-benign.html",
@@ -72,7 +73,6 @@
       "/pdac.html",
       "/ozofagus.html",
       "/iskemi-nekroz.html",
-      "/bs.html",
       "/yorum.html"
     ]
   },
@@ -84,6 +84,7 @@
       "/akut-inflamasyon.html",
       "/amiloid.html",
       "/ampulla-vater.html",
+      "/bs.html",
       "/bakteri.html",
       "/tumor-yayilimi.html",
       "/karaciger-benign.html",
@@ -149,7 +150,6 @@
       "/pdac.html",
       "/ozofagus.html",
       "/iskemi-nekroz.html",
-      "/bs.html",
       "/yorum.html"
     ]
   }
