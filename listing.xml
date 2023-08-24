@@ -21,61 +21,97 @@ Patoloji Ders Notları ve Patoloji Atlası Memorial Patoloji arşivinden derlene
 <width>144</width>
 </image>
 <generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 15 Aug 2023 19:00:39 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Aug 2023 13:14:55 GMT</lastBuildDate>
 <item>
-  <title>24  Başka Organlara Tümör Yayılımı</title>
+  <title>25  Başka Organlara Tümör Yayılımı</title>
   <link>https://patolojiatlasi.com/tumor-yayilimi.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="sec-servikse-kolon-tumor-yayilimi" class="level2 cell" data-number="24.1">
-<h2 data-number="24.1" class="anchored" data-anchor-id="sec-servikse-kolon-tumor-yayilimi"><span class="header-section-number">24.1</span> Servikse kolon tümörü yayılımı</h2>
+<section id="sec-servikse-kolon-tumor-yayilimi" class="level2 cell" data-number="25.1">
+<h2 data-number="25.1" class="anchored" data-anchor-id="sec-servikse-kolon-tumor-yayilimi"><span class="header-section-number">25.1</span> Servikse kolon tümörü yayılımı</h2>
 </section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
 <div class="cell">
 <p><strong>Servikse kolon tümörü yayılımı</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-cervix.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+<p><a href="https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-cervix.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-cervix.html" style="height:600px;width:100%;" data-external="1">
 </iframe>
 </div>
-<section id="sec-endometriuma-kolon-tumor-yayilimi" class="level2 cell" data-number="24.2">
-<h2 data-number="24.2" class="anchored" data-anchor-id="sec-endometriuma-kolon-tumor-yayilimi"><span class="header-section-number">24.2</span> Endometriuma kolon tümörü yayılımı</h2>
+</div>
+</div>
+</div>
+<section id="sec-endometriuma-kolon-tumor-yayilimi" class="level2 cell" data-number="25.2">
+<h2 data-number="25.2" class="anchored" data-anchor-id="sec-endometriuma-kolon-tumor-yayilimi"><span class="header-section-number">25.2</span> Endometriuma kolon tümörü yayılımı</h2>
 </section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" aria-labelledby="tabset-2-1-tab">
 <div class="cell">
 <p><strong>Endometriuma kolon tümörü yayılımı</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-endometrium.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+<p><a href="https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-endometrium.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</div>
+<div id="tabset-2-2" class="tab-pane" aria-labelledby="tabset-2-2-tab">
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-endometrium.html" style="height:600px;width:100%;" data-external="1">
 </iframe>
 </div>
-<section id="sec-overe-kolon-tumor-yayilimi" class="level2 cell" data-number="24.3">
-<h2 data-number="24.3" class="anchored" data-anchor-id="sec-overe-kolon-tumor-yayilimi"><span class="header-section-number">24.3</span> Overe kolon tümörü yayılımı</h2>
+</div>
+</div>
+</div>
+<section id="sec-overe-kolon-tumor-yayilimi" class="level2 cell" data-number="25.3">
+<h2 data-number="25.3" class="anchored" data-anchor-id="sec-overe-kolon-tumor-yayilimi"><span class="header-section-number">25.3</span> Overe kolon tümörü yayılımı</h2>
 </section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" aria-controls="tabset-3-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" aria-controls="tabset-3-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-3-1" class="tab-pane active" aria-labelledby="tabset-3-1-tab">
 <div class="cell">
 <p><strong>Overe kolon tümörü yayılımı</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-over.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-over.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-over.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+<p><a href="https://images.patolojiatlasi.com/tumor-spread/HE-over.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-over.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-over.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</div>
+<div id="tabset-3-2" class="tab-pane" aria-labelledby="tabset-3-2-tab">
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-over.html" style="height:600px;width:100%;" data-external="1">
 </iframe>
 </div>
-<section id="sec-ince-barsak-kolon-tumor-yayilimi" class="level2 cell" data-number="24.4">
-<h2 data-number="24.4" class="anchored" data-anchor-id="sec-ince-barsak-kolon-tumor-yayilimi"><span class="header-section-number">24.4</span> İnce barsağa kolon tümörü yayılımı</h2>
+</div>
+</div>
+</div>
+<section id="sec-ince-barsak-kolon-tumor-yayilimi" class="level2 cell" data-number="25.4">
+<h2 data-number="25.4" class="anchored" data-anchor-id="sec-ince-barsak-kolon-tumor-yayilimi"><span class="header-section-number">25.4</span> İnce barsağa kolon tümörü yayılımı</h2>
 </section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-4-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-1" aria-controls="tabset-4-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-4-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-2" aria-controls="tabset-4-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-4-1" class="tab-pane active" aria-labelledby="tabset-4-1-tab">
 <div class="cell">
 <p><strong>İnce barsağa kolon tümörü yayılımı</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-small-intestine.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+<p><a href="https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_tumor-spread-small-intestine.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</div>
+<div id="tabset-4-2" class="tab-pane" aria-labelledby="tabset-4-2-tab">
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/tumor-spread/HE-small-intestine.html" style="height:600px;width:100%;" data-external="1">
 </iframe>
+</div>
+</div>
+</div>
 </div>
 
 
@@ -85,7 +121,7 @@ Patoloji Ders Notları ve Patoloji Atlası Memorial Patoloji arşivinden derlene
   <category>metastaz</category>
   <category>invazyon</category>
   <guid>https://patolojiatlasi.com/tumor-yayilimi.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
   <title>Patoloji Atlası Nasıl Geliştiriliyor?</title>
@@ -259,7 +295,7 @@ Patoloji Ders Notları ve Patoloji Atlası Memorial Patoloji arşivinden derlene
   <category>yonetim</category>
   <category>development</category>
   <guid>https://patolojiatlasi.com/yonetim-gelistirme.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
   <title>66  Patoloji Eğitimi İçin Bütün Slayt Görüntüleme (Whole Slide Image) Sayfaları</title>
@@ -316,6 +352,10 @@ Patoloji Ders Notları ve Patoloji Atlası Memorial Patoloji arşivinden derlene
 <section id="johns-hopkins-surgical-pathology-unknown-conference" class="level2" data-number="66.9">
 <h2 data-number="66.9" class="anchored" data-anchor-id="johns-hopkins-surgical-pathology-unknown-conference"><span class="header-section-number">66.9</span> Johns Hopkins Surgical Pathology Unknown Conference</h2>
 <p><a href="https://sp.pathology.jhu.edu/" class="uri">https://sp.pathology.jhu.edu/</a></p>
+</section>
+<section id="pathology-of-cancer-atlas" class="level2" data-number="66.10">
+<h2 data-number="66.10" class="anchored" data-anchor-id="pathology-of-cancer-atlas"><span class="header-section-number">66.10</span> Pathology of Cancer Atlas</h2>
+<p><a href="https://www.elbolkainy.net/pathology-of-cancer-atlas" class="uri">https://www.elbolkainy.net/pathology-of-cancer-atlas</a></p>
 
 
 <div id="refs" class="references csl-bib-body hanging-indent" style="display: none">
@@ -332,7 +372,7 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>wsi</category>
   <category>atlas</category>
   <guid>https://patolojiatlasi.com/wsi.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
   <title>1  Patolojide Kullanılan Teknikler</title>
@@ -350,26 +390,44 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
 <section id="sec-mucicarmine" class="level4 cell">
 <h4 class="anchored" data-anchor-id="sec-mucicarmine">Mucicarmine</h4>
 </section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
 <div class="cell">
 <p><strong>Normal kolon mukozasında intrasitoplazmik müsini gösteren mucicarmine (müsikarmen) histokimyası</strong></p>
 <p><a href="https://images.patolojiatlasi.com/mucin/mucicarmine.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_mucicarmine.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/mucin/mucicarmine.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/mucin/mucicarmine.html" style="height:600px;width:100%;" data-external="1">
 </iframe>
 </div>
+</div>
+</div>
+</div>
 <section id="sec-chromogenic-in-situ-hybridization-cish" class="level2 cell" data-number="1.2">
 <h2 data-number="1.2" class="anchored" data-anchor-id="sec-chromogenic-in-situ-hybridization-cish"><span class="header-section-number">1.2</span> Chromogenic in situ hybridization (CISH)</h2>
 </section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" aria-labelledby="tabset-2-1-tab">
 <div class="cell">
 <p><strong>Chromogenic in situ hybridization (CISH)</strong></p>
 <p><a href="https://images.patolojiatlasi.com/her2-cish/cish.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_cish.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/her2-cish/cish.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</div>
+<div id="tabset-2-2" class="tab-pane" aria-labelledby="tabset-2-2-tab">
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/her2-cish/cish.html" style="height:600px;width:100%;" data-external="1">
 </iframe>
+</div>
+</div>
+</div>
 </div>
 
 
@@ -380,68 +438,10 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>histochemistry</category>
   <category>CISH</category>
   <guid>https://patolojiatlasi.com/teknik.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
-  <title>58  Santral Sinir Sistemi Vasküler Lezyonlar</title>
-  <link>https://patolojiatlasi.com/sss-vaskuler.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="sec-beyin-arteriovenoz-malformasyon" class="level2 cell" data-number="58.1">
-<h2 data-number="58.1" class="anchored" data-anchor-id="sec-beyin-arteriovenoz-malformasyon"><span class="header-section-number">58.1</span> Beyin arteriovenöz malformasyon</h2>
-</section>
-<div class="cell">
-<p><strong>beyin arteriovenöz malformasyon</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/brain-arteriovenous-malformation/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_brain-arteriovenous-malformation.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/brain-arteriovenous-malformation/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/brain-arteriovenous-malformation/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-
-
-
- ]]></description>
-  <category>SSS</category>
-  <category>CNS</category>
-  <category>damar</category>
-  <category>vasküler</category>
-  <guid>https://patolojiatlasi.com/sss-vaskuler.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
-</item>
-<item>
-  <title>45  Serviks</title>
-  <link>https://patolojiatlasi.com/serviks.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="sec-serviks-skuamoz-hucreli-karsinom" class="level2 cell" data-number="45.1">
-<h2 data-number="45.1" class="anchored" data-anchor-id="sec-serviks-skuamoz-hucreli-karsinom"><span class="header-section-number">45.1</span> Serviks Skuamöz Hücreli Karsinom</h2>
-</section>
-<div class="cell">
-<p><strong>Serviks Skuamöz Hücreli Karsinom</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/cervix-SCC/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_cervix-SCC.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/cervix-SCC/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/cervix-SCC/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-
-
-
- ]]></description>
-  <category>serviks</category>
-  <category>cervix</category>
-  <guid>https://patolojiatlasi.com/serviks.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
-</item>
-<item>
-  <title>8  Tamir Mekanizmaları</title>
+  <title>9  Tamir Mekanizmaları</title>
   <link>https://patolojiatlasi.com/tamir.html</link>
   <description><![CDATA[ 
 
@@ -458,8 +458,8 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
 <div class="cell">
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/76bOJIiT29Y" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 </div>
-<section id="sec-fibrozis" class="level2" data-number="8.1">
-<h2 data-number="8.1" class="anchored" data-anchor-id="sec-fibrozis"><span class="header-section-number">8.1</span> Fibrozis</h2>
+<section id="sec-fibrozis" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="sec-fibrozis"><span class="header-section-number">9.1</span> Fibrozis</h2>
 <p>Kolesistit spesmeninde gelişmekte olan genç fibrozis</p>
 <p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/fibrosis/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_fibrosis.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/fibrosis/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 <div class="cell">
@@ -468,8 +468,8 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
 </iframe>
 </div>
 </section>
-<section id="sec-keloid-skar" class="level2" data-number="8.2">
-<h2 data-number="8.2" class="anchored" data-anchor-id="sec-keloid-skar"><span class="header-section-number">8.2</span> Keloid - Skar</h2>
+<section id="sec-keloid-skar" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="sec-keloid-skar"><span class="header-section-number">9.2</span> Keloid - Skar</h2>
 <p>Keloid Skar oluşumu</p>
 <p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/keloid-scar/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_keloid-scar.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/keloid-scar/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 <div class="cell">
@@ -491,7 +491,7 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>hasar</category>
   <category>tamir</category>
   <guid>https://patolojiatlasi.com/tamir.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
   <title>55  Tükürük Bezi Tümörleri</title>
@@ -504,46 +504,60 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
 <h2 data-number="55.1" class="anchored" data-anchor-id="tükürük-bezinin-meme-benzeri-sekretuar-karsinomu"><span class="header-section-number">55.1</span> Tükürük bezinin meme benzeri sekretuar karsinomu</h2>
 </section>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">HE - 1</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">HE - 2</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" aria-controls="tabset-1-3" aria-selected="false">HE - annotated</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" aria-controls="tabset-1-4" aria-selected="false">Açıklama</a></li></ul>
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" aria-controls="tabset-1-3" aria-selected="false">Diagnosis</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+<section id="he-1" class="level4">
+<h4 class="anchored" data-anchor-id="he-1">HE-1</h4>
 <div class="cell">
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE1.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_mammary-analogue-secretory-carcinoma1.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE1.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+<p><a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE1.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_mammary-analogue-secretory-carcinoma1.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE1.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</section>
+<section id="he-2" class="level4">
+<h4 class="anchored" data-anchor-id="he-2">HE-2</h4>
+<div class="cell">
+<p><a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_mammary-analogue-secretory-carcinoma2.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+</section>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
+<section id="he-1-1" class="level4">
+<h4 class="anchored" data-anchor-id="he-1-1">HE-1</h4>
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE1.html" style="height:400px;width:100%;" data-external="1">
 </iframe>
 </div>
-</div>
-<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
-<div class="cell">
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_mammary-analogue-secretory-carcinoma2.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
+</section>
+<section id="he-2-1" class="level4">
+<h4 class="anchored" data-anchor-id="he-2-1">HE-2</h4>
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html" style="height:400px;width:100%;" data-external="1">
 </iframe>
 </div>
+</section>
 </div>
 <div id="tabset-1-3" class="tab-pane" aria-labelledby="tabset-1-3-tab">
 <div class="cell">
-<p>İşaretlenmiş Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE1_annotated.html" style="height:400px;width:100%;" data-external="1">
-</iframe>
-<p><a href="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html">https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html</a></p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
-<div class="cell">
-<p>İşaretlenmiş Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/mammary-analogue-secretory-carcinoma/HE2.html" style="height:400px;width:100%;" data-external="1">
-</iframe>
+<div class="callout-title-container flex-fill">
+Tanı için tıklayın
 </div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
 </div>
-<div id="tabset-1-4" class="tab-pane" aria-labelledby="tabset-1-4-tab">
-<div class="cell">
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
 <p><strong>Tükürük bezinin meme benzeri sekretuar karsinomu</strong></p>
 <p>Tükürük bezinin sekretuar karsinomu ETV6 gen yeniden düzenlemesi ile karakterize nadir görülen primer tükürük bezi karsinomudur. İnterkalar duktus epitelinden köken alır. Aynı zamanda memenin sekretuar karsinomunun analoğudur. Major tükürük bezlerinde daha sık görülür. Bir tükürük bezi tümörüne bakarken papiller benzeri alanlar ve tiroid follükülüne benzer alanlar görüyorsak tükürük bezinin sekretuar karsinomu akla gelmelidir. Tübüler, papiller, mikrokistik ve solid büyüme paterni görülebilir. Luminal pembe (kolloid benzeri) materyal görülür. Tümör hücrelerinde belirgin santral nükleolus görülür. İmmünohistokimyasal olarak S100, mamaglobulin ve GCDFP-15 pozitiftir. Tükürük bezinin sekretuar karsinomunda bazı alanlar asinik hücreli karsinoma benzeyebilir. Tükürük bezinin sekretuar karsinomu, asinik hücreli karsinoma göre metastaz potansiyeli daha yüksektir.<br>
 <em>Dr.&nbsp;Zeynep Bayramoğlu</em></p>
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
@@ -555,10 +569,10 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>tukuruk</category>
   <category>salivary</category>
   <guid>https://patolojiatlasi.com/tukuruk.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
-  <title>48  Uriner Sistem Patolojisi</title>
+  <title>49  Uriner Sistem Patolojisi</title>
   <link>https://patolojiatlasi.com/uriner.html</link>
   <description><![CDATA[ 
 
@@ -571,10 +585,10 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>uriner</category>
   <category>urinary</category>
   <guid>https://patolojiatlasi.com/uriner.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
-  <title>25  Venöz invazyon</title>
+  <title>26  Venöz invazyon</title>
   <link>https://patolojiatlasi.com/venoz-invazyon.html</link>
   <description><![CDATA[ 
 
@@ -608,17 +622,17 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>venous invasion</category>
   <category>venöz invazyon</category>
   <guid>https://patolojiatlasi.com/venoz-invazyon.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
-  <title>13  Viruslar</title>
+  <title>14  Viruslar</title>
   <link>https://patolojiatlasi.com/virus.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="sec-herpes-simplex-virus" class="level2 cell" data-number="13.1">
-<h2 data-number="13.1" class="anchored" data-anchor-id="sec-herpes-simplex-virus"><span class="header-section-number">13.1</span> Herpes Simplex Virus (HSV)</h2>
+<section id="sec-herpes-simplex-virus" class="level2 cell" data-number="14.1">
+<h2 data-number="14.1" class="anchored" data-anchor-id="sec-herpes-simplex-virus"><span class="header-section-number">14.1</span> Herpes Simplex Virus (HSV)</h2>
 </section>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
@@ -637,8 +651,8 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
 </div>
 </div>
 </div>
-<section id="sec-molluscum-contagiosum" class="level2 cell" data-number="13.2">
-<h2 data-number="13.2" class="anchored" data-anchor-id="sec-molluscum-contagiosum"><span class="header-section-number">13.2</span> Molluscum contagiosum</h2>
+<section id="sec-molluscum-contagiosum" class="level2 cell" data-number="14.2">
+<h2 data-number="14.2" class="anchored" data-anchor-id="sec-molluscum-contagiosum"><span class="header-section-number">14.2</span> Molluscum contagiosum</h2>
 </section>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
@@ -666,7 +680,229 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>HSV</category>
   <category>molluscum</category>
   <guid>https://patolojiatlasi.com/virus.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
+</item>
+<item>
+  <title>40  WSI - Link</title>
+  <link>https://patolojiatlasi.com/safra-kesesi.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+
+</div>
+</div>
+</div>
+<section id="sec-safra-kesesi" class="level1 cell" data-number="41">
+<h1 data-number="41"><span class="header-section-number">41</span> Safra Kesesi</h1>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" aria-labelledby="tabset-2-1-tab">
+
+</div>
+<div id="tabset-2-2" class="tab-pane" aria-labelledby="tabset-2-2-tab">
+
+</div>
+</div>
+</div>
+<section id="sec-safra-kesesi-adenomyom" class="level2 cell" data-number="41.1">
+<h2 data-number="41.1" class="anchored" data-anchor-id="sec-safra-kesesi-adenomyom"><span class="header-section-number">41.1</span> Safra Kesesi Adenomyom</h2>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" aria-controls="tabset-3-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" aria-controls="tabset-3-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-3-1" class="tab-pane active" aria-labelledby="tabset-3-1-tab">
+
+</div>
+<div id="tabset-3-2" class="tab-pane" aria-labelledby="tabset-3-2-tab">
+
+</div>
+</div>
+</div>
+<div class="cell">
+<p><strong>Safra Kesesi Adenomyom</strong></p>
+<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_gallbladder-adenomyoma.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-4-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-1" aria-controls="tabset-4-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-4-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-4-2" aria-controls="tabset-4-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-4-1" class="tab-pane active" aria-labelledby="tabset-4-1-tab">
+
+</div>
+<div id="tabset-4-2" class="tab-pane" aria-labelledby="tabset-4-2-tab">
+
+</div>
+</div>
+</div>
+<section id="sec-ischemia-gangrenous-cholecystitis" class="level2 cell" data-number="41.2">
+<h2 data-number="41.2" class="anchored" data-anchor-id="sec-ischemia-gangrenous-cholecystitis"><span class="header-section-number">41.2</span> iskemi gangrenöz kolesistit</h2>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-6-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-6-1" aria-controls="tabset-6-1" aria-selected="true">HE</a></li><li class="nav-item"><a class="nav-link" id="tabset-6-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-6-2" aria-controls="tabset-6-2" aria-selected="false">HE - annotated</a></li></ul>
+<div class="tab-content">
+<div id="tabset-6-1" class="tab-pane active" aria-labelledby="tabset-6-1-tab">
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-5-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-5-1" aria-controls="tabset-5-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-5-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-5-2" aria-controls="tabset-5-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-5-1" class="tab-pane active" aria-labelledby="tabset-5-1-tab">
+
+</div>
+<div id="tabset-5-2" class="tab-pane" aria-labelledby="tabset-5-2-tab">
+
+</div>
+</div>
+</div>
+<div class="cell">
+<p><strong>iskemi gangrenöz kolesistit</strong></p>
+<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_ischemia-gangrenous-cholecystitis.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+</div>
+<div id="tabset-6-2" class="tab-pane" aria-labelledby="tabset-6-2-tab">
+<div class="cell">
+<p>İşaretlenmiş Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE_annotated.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>safra kesesi</category>
+  <category>gallbladder</category>
+  <guid>https://patolojiatlasi.com/safra-kesesi.html</guid>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
+</item>
+<item>
+  <title>46  WSI - Link</title>
+  <link>https://patolojiatlasi.com/serviks.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+
+</div>
+</div>
+</div>
+<section id="sec-serviks" class="level1 cell" data-number="47">
+<h1 data-number="47"><span class="header-section-number">47</span> Serviks</h1>
+<section id="sec-serviks-skuamoz-hucreli-karsinom" class="level2" data-number="47.1">
+<h2 data-number="47.1" class="anchored" data-anchor-id="sec-serviks-skuamoz-hucreli-karsinom"><span class="header-section-number">47.1</span> Serviks Skuamöz Hücreli Karsinom</h2>
+</section>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" aria-labelledby="tabset-2-1-tab">
+
+</div>
+<div id="tabset-2-2" class="tab-pane" aria-labelledby="tabset-2-2-tab">
+
+</div>
+</div>
+</div>
+<div class="cell">
+<p><strong>Serviks Skuamöz Hücreli Karsinom</strong></p>
+<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/cervix-SCC/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_cervix-SCC.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/cervix-SCC/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/cervix-SCC/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+
+
+
+ ]]></description>
+  <category>serviks</category>
+  <category>cervix</category>
+  <guid>https://patolojiatlasi.com/serviks.html</guid>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
+</item>
+<item>
+  <title>58  WSI - Link</title>
+  <link>https://patolojiatlasi.com/sss-vaskuler.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+
+</div>
+</div>
+</div>
+<section id="sec-santral-sinir-sistemi-vaskuler" class="level1 cell" data-number="59">
+<h1 data-number="59"><span class="header-section-number">59</span> Santral Sinir Sistemi Vasküler Lezyonlar</h1>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" aria-labelledby="tabset-2-1-tab">
+
+</div>
+<div id="tabset-2-2" class="tab-pane" aria-labelledby="tabset-2-2-tab">
+
+</div>
+</div>
+</div>
+<section id="sec-beyin-arteriovenoz-malformasyon" class="level2 cell" data-number="59.1">
+<h2 data-number="59.1" class="anchored" data-anchor-id="sec-beyin-arteriovenoz-malformasyon"><span class="header-section-number">59.1</span> Beyin arteriovenöz malformasyon</h2>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" aria-controls="tabset-3-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" aria-controls="tabset-3-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-3-1" class="tab-pane active" aria-labelledby="tabset-3-1-tab">
+
+</div>
+<div id="tabset-3-2" class="tab-pane" aria-labelledby="tabset-3-2-tab">
+
+</div>
+</div>
+</div>
+<div class="cell">
+<p><strong>beyin arteriovenöz malformasyon</strong></p>
+<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/brain-arteriovenous-malformation/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_brain-arteriovenous-malformation.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/brain-arteriovenous-malformation/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/brain-arteriovenous-malformation/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+
+
+
+ ]]></description>
+  <category>SSS</category>
+  <category>CNS</category>
+  <category>damar</category>
+  <category>vasküler</category>
+  <guid>https://patolojiatlasi.com/sss-vaskuler.html</guid>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
   <title>Yazarlar ve Katkıda Bulunanlar</title>
@@ -715,6 +951,7 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
 <li><p>Zehra Yaşaroğlu</p></li>
 <li><p>Baha Erdoğan</p></li>
 <li><p>Talha Akbaş</p></li>
+<li><p>Nursen İrem Şermetoğlu</p></li>
 </ul>
 <section id="sec-diger-kurumlardan-katkida-bulunanlar" class="level2 cell">
 <h2 class="anchored" data-anchor-id="sec-diger-kurumlardan-katkida-bulunanlar">Diğer Kurumlardan Katkıda Bulunanlar</h2>
@@ -736,80 +973,35 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>editors</category>
   <category>contributors</category>
   <guid>https://patolojiatlasi.com/yazarlar.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:39 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:55 GMT</pubDate>
 </item>
 <item>
-  <title>39  Safra Kesesi</title>
-  <link>https://patolojiatlasi.com/safra-kesesi.html</link>
-  <description><![CDATA[ 
-
-
-
-<section id="sec-safra-kesesi-adenomyom" class="level2 cell" data-number="39.1">
-<h2 data-number="39.1" class="anchored" data-anchor-id="sec-safra-kesesi-adenomyom"><span class="header-section-number">39.1</span> Safra Kesesi Adenomyom</h2>
-</section>
-<div class="cell">
-<p><strong>Safra Kesesi Adenomyom</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_gallbladder-adenomyoma.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/gallbladder-adenomyoma/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-<section id="sec-ischemia-gangrenous-cholecystitis" class="level2 cell" data-number="39.2">
-<h2 data-number="39.2" class="anchored" data-anchor-id="sec-ischemia-gangrenous-cholecystitis"><span class="header-section-number">39.2</span> iskemi gangrenöz kolesistit</h2>
-</section>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">HE</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">HE - annotated</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
-<div class="cell">
-<p><strong>iskemi gangrenöz kolesistit</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_ischemia-gangrenous-cholecystitis.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-</div>
-<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
-<div class="cell">
-<p>İşaretlenmiş Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/ischemia-gangrenous-cholecystitis/HE_annotated.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-</div>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>safra kesesi</category>
-  <category>gallbladder</category>
-  <guid>https://patolojiatlasi.com/safra-kesesi.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:38 GMT</pubDate>
-</item>
-<item>
-  <title>36  Benign Karaciğer Tümörleri</title>
+  <title>37  Benign Karaciğer Tümörleri</title>
   <link>https://patolojiatlasi.com/karaciger-benign.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="sec-karaciger-hemanjiom" class="level2 cell" data-number="36.1">
-<h2 data-number="36.1" class="anchored" data-anchor-id="sec-karaciger-hemanjiom"><span class="header-section-number">36.1</span> Karaciğer Hemanjiom</h2>
+<section id="sec-karaciger-hemanjiom" class="level2 cell" data-number="37.1">
+<h2 data-number="37.1" class="anchored" data-anchor-id="sec-karaciger-hemanjiom"><span class="header-section-number">37.1</span> Karaciğer Hemanjiom</h2>
 </section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
 <div class="cell">
 <p><strong>Karaciğer Hemanjiom</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/liver-hemangioma/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_liver-hemangioma.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/liver-hemangioma/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+<p><a href="https://images.patolojiatlasi.com/liver-hemangioma/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_liver-hemangioma.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/liver-hemangioma/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
 </div>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
 <div class="cell">
 <p>Mikroskopik görüntüleri inceleyin:</p>
 <iframe src="https://images.patolojiatlasi.com/liver-hemangioma/HE.html" style="height:600px;width:100%;" data-external="1">
 </iframe>
+</div>
+</div>
+</div>
 </div>
 
 
@@ -819,78 +1011,17 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>benign</category>
   <category>liver</category>
   <guid>https://patolojiatlasi.com/karaciger-benign.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:37 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:54 GMT</pubDate>
 </item>
 <item>
-  <title>57  Beyin İnvazyonu Gösteren Meningiom</title>
-  <link>https://patolojiatlasi.com/meningiom.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="cell">
-<p><strong>Beyin İnvazyonu Gösteren Meningiom</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_brain-invasive-meningioma.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/brain-invasive-meningioma/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-<section id="sec-kemik-infiltrasyonu-gosteren-meningiom" class="level1 cell" data-number="58">
-<h1 data-number="58"><span class="header-section-number">58</span> Meningiom Kemik İnfiltrasyonu</h1>
-</section>
-<div class="cell">
-<p><strong>Meningiom Kemik İnfiltrasyonu</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_meningioma-bone-infiltration.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/meningioma-bone-infiltration/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-
-
-
- ]]></description>
-  <category>meningioma</category>
-  <guid>https://patolojiatlasi.com/meningiom.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:37 GMT</pubDate>
-</item>
-<item>
-  <title>6  Dalak konjesyon</title>
-  <link>https://patolojiatlasi.com/konjesyon.html</link>
-  <description><![CDATA[ 
-
-
-
-<div class="cell">
-<p><strong>Dalak konjesyon</strong></p>
-<p><img src="https://patolojiatlasi.com/qrcodes/{{template}}-{{stain}}_qrcode.svg" class="img-fluid" style="width:15.0%"> <a href="https://images.patolojiatlasi.com/congestion-spleen/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_congestion-spleen.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/congestion-spleen/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/congestion-spleen/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-
-
-
- ]]></description>
-  <category>congestion</category>
-  <category>spleen</category>
-  <guid>https://patolojiatlasi.com/konjesyon.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:37 GMT</pubDate>
-</item>
-<item>
-  <title>32  Duodenum</title>
+  <title>33  Duodenum</title>
   <link>https://patolojiatlasi.com/duodenum.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="sec-colyak-hastaligi" class="level2 cell" data-number="32.1">
-<h2 data-number="32.1" class="anchored" data-anchor-id="sec-colyak-hastaligi"><span class="header-section-number">32.1</span> Çölyak Hastalığı</h2>
+<section id="sec-colyak-hastaligi" class="level2 cell" data-number="33.1">
+<h2 data-number="33.1" class="anchored" data-anchor-id="sec-colyak-hastaligi"><span class="header-section-number">33.1</span> Çölyak Hastalığı</h2>
 </section>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
@@ -920,17 +1051,17 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>gluten</category>
   <category>enteropati</category>
   <guid>https://patolojiatlasi.com/duodenum.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:37 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:54 GMT</pubDate>
 </item>
 <item>
-  <title>26  Ekstramural Venöz İnvazyon</title>
+  <title>27  Ekstramural Venöz İnvazyon</title>
   <link>https://patolojiatlasi.com/ekstramural-venoz-invazyon.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="sec-adenokarsinomda-ekstramural-venoz-invazyon" class="level2 cell" data-number="26.1">
-<h2 data-number="26.1" class="anchored" data-anchor-id="sec-adenokarsinomda-ekstramural-venoz-invazyon"><span class="header-section-number">26.1</span> Adenokarsinomda Ekstramural Venöz İnvazyon</h2>
+<section id="sec-adenokarsinomda-ekstramural-venoz-invazyon" class="level2 cell" data-number="27.1">
+<h2 data-number="27.1" class="anchored" data-anchor-id="sec-adenokarsinomda-ekstramural-venoz-invazyon"><span class="header-section-number">27.1</span> Adenokarsinomda Ekstramural Venöz İnvazyon</h2>
 </section>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
@@ -993,10 +1124,10 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>venöz invazyon</category>
   <category>ekstramural</category>
   <guid>https://patolojiatlasi.com/ekstramural-venoz-invazyon.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:37 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:54 GMT</pubDate>
 </item>
 <item>
-  <title>47  Endometriozis</title>
+  <title>48  Endometriozis</title>
   <link>https://patolojiatlasi.com/endometriosis.html</link>
   <description><![CDATA[ 
 
@@ -1026,17 +1157,17 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
  ]]></description>
   <category>endometriozis</category>
   <guid>https://patolojiatlasi.com/endometriosis.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:37 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:54 GMT</pubDate>
 </item>
 <item>
-  <title>46  Endometrium</title>
+  <title>47  Endometrium</title>
   <link>https://patolojiatlasi.com/endometrium.html</link>
   <description><![CDATA[ 
 
 
 
-<section id="sec-endometrial-polip" class="level2 cell" data-number="46.1">
-<h2 data-number="46.1" class="anchored" data-anchor-id="sec-endometrial-polip"><span class="header-section-number">46.1</span> Endometrial Polip</h2>
+<section id="sec-endometrial-polip" class="level2 cell" data-number="47.1">
+<h2 data-number="47.1" class="anchored" data-anchor-id="sec-endometrial-polip"><span class="header-section-number">47.1</span> Endometrial Polip</h2>
 </section>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
 <ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
@@ -1063,7 +1194,130 @@ Mukosera, George T., Marina K. Ibraheim, Michael P. Lee, Dirk Elston, Rajendra S
   <category>endometrium</category>
   <category>polip</category>
   <guid>https://patolojiatlasi.com/endometrium.html</guid>
-  <pubDate>Tue, 15 Aug 2023 19:00:37 GMT</pubDate>
+  <pubDate>Thu, 24 Aug 2023 13:14:54 GMT</pubDate>
+</item>
+<item>
+  <title>10  Erozyon</title>
+  <link>https://patolojiatlasi.com/erozyon.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="sec-mide-mukozasinda-erozyon" class="level2 cell" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="sec-mide-mukozasinda-erozyon"><span class="header-section-number">10.1</span> Mide mukozasında erozyon</h2>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+<div class="cell">
+<p><strong>Mide mukozasında erozyon</strong></p>
+<p><a href="https://images.patolojiatlasi.com/erosion/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_erosion.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/erosion/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/erosion/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>mukoza</category>
+  <category>erozyon</category>
+  <guid>https://patolojiatlasi.com/erozyon.html</guid>
+  <pubDate>Thu, 24 Aug 2023 13:14:54 GMT</pubDate>
+</item>
+<item>
+  <title>62  GBD koleksiyonu</title>
+  <link>https://patolojiatlasi.com/gbd.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<p><strong>Bu sayfadaki vakalar Prof.&nbsp;Dr.&nbsp;Gülen Bülbül Doğusoy’un koleksiyonundan alınmıştır.</strong></p>
+</div>
+<section id="sec-GBD1" class="level2 cell" data-number="62.1">
+<h2 data-number="62.1" class="anchored" data-anchor-id="sec-GBD1"><span class="header-section-number">62.1</span> GBD Olgu 1 - pediatrik otopsi, beyin</h2>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-1-1" class="tab-pane active" aria-labelledby="tabset-1-1-tab">
+<div class="cell">
+<p><strong>pediatrik otopsi, beyin</strong></p>
+<p><a href="https://images.patolojiatlasi.com/GBD1/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_GBD1.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/GBD1/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+</div>
+<div id="tabset-1-2" class="tab-pane" aria-labelledby="tabset-1-2-tab">
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/GBD1/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+</div>
+</div>
+</div>
+<section id="sec-GBD2" class="level2 cell" data-number="62.2">
+<h2 data-number="62.2" class="anchored" data-anchor-id="sec-GBD2"><span class="header-section-number">62.2</span> GBD Olgu 2 - pediatrik otopsi</h2>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-2-1" class="tab-pane active" aria-labelledby="tabset-2-1-tab">
+<div class="cell">
+<p><strong>pediatrik otopsi</strong></p>
+<p><a href="https://images.patolojiatlasi.com/GBD2/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_GBD2.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/GBD2/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+</div>
+<div id="tabset-2-2" class="tab-pane" aria-labelledby="tabset-2-2-tab">
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/GBD2/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+</div>
+</div>
+</div>
+<section id="sec-GBD3" class="level2 cell" data-number="62.3">
+<h2 data-number="62.3" class="anchored" data-anchor-id="sec-GBD3"><span class="header-section-number">62.3</span> GBD3</h2>
+</section>
+<div class="tabset-margin-container"></div><div class="panel-tabset">
+<ul class="nav nav-tabs"><li class="nav-item"><a class="nav-link active" id="tabset-3-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-1" aria-controls="tabset-3-1" aria-selected="true">WSI - Link</a></li><li class="nav-item"><a class="nav-link" id="tabset-3-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-3-2" aria-controls="tabset-3-2" aria-selected="false">WSI</a></li></ul>
+<div class="tab-content">
+<div id="tabset-3-1" class="tab-pane active" aria-labelledby="tabset-3-1-tab">
+<div class="cell">
+<p><strong>GBD3</strong></p>
+<p><a href="https://images.patolojiatlasi.com/GBD3/HE.html"><img src="https://patolojiatlasi.com/screenshots/thumbnail_GBD3.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/GBD3/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
+</div>
+</div>
+<div id="tabset-3-2" class="tab-pane" aria-labelledby="tabset-3-2-tab">
+<div class="cell">
+<p>Mikroskopik görüntüleri inceleyin:</p>
+<iframe src="https://images.patolojiatlasi.com/GBD3/HE.html" style="height:600px;width:100%;" data-external="1">
+</iframe>
+</div>
+</div>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>koleksiyon</category>
+  <category>GBD</category>
+  <category>collection</category>
+  <category>autopsy</category>
+  <category>brain</category>
+  <category>pediatric</category>
+  <guid>https://patolojiatlasi.com/gbd.html</guid>
+  <pubDate>Thu, 24 Aug 2023 13:14:54 GMT</pubDate>
 </item>
 </channel>
 </rss>
