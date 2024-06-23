@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="hamartom, patoloji, atlas, pathology, whole slide image">
+<meta name="description" content="All cases.">
 
-<title>19&nbsp; Hamartom – Patoloji Atlası</title>
+<title>All cases – Patoloji Atlası</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,26 +24,28 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./heterotopi.html" rel="next">
-<link href="./benign.html" rel="prev">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/quarto-contrib/collapse-social-embeds-1.0.0/collapse.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../lists/stains.html" rel="next">
+<link href="../lists/published-2.html" rel="prev">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/quarto-contrib/collapse-social-embeds-1.0.0/collapse.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": true,
@@ -70,6 +72,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Aramak"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-case-list .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-stainname','listing-reponame','listing-titleTR','listing-titleEN','listing-organTR','listing-organEN','listing-speciality','listing-type','listing-author','listing-date','listing-url','listing-note','listing-categoriesTR','listing-categoriesEN','listing-screenshot','listing-githubrepo','listing-githubpage','listing-youtube',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-stainname","listing-reponame","listing-titleTR","listing-titleEN","listing-organTR","listing-organEN","listing-speciality","listing-type","listing-author","listing-date","listing-url","listing-note","listing-categoriesTR","listing-categoriesEN","listing-screenshot","listing-githubrepo","listing-githubpage","listing-youtube"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-case-list'] = new List('listing-case-list', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7BT7Q4FLT9"></script>
 
 <script type="text/javascript">
@@ -85,10 +116,10 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
     document.body.classList.add('hypothesis-enabled');
   });
 </script>
-<link rel="apple-touch-icon" sizes="180x180" href="./images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="./images/favicon-16x16.png">
-<link rel="manifest" href="./images/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="../images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../images/favicon-16x16.png">
+<link rel="manifest" href="../images/site.webmanifest">
 <link rel="icon" href="https://images.patolojiatlasi.com/img/favicon.ico" type="image/x-icon">
 
 <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
@@ -98,8 +129,8 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
 <script src="https://images.patolojiatlasi.com/openseadragon/openseadragon.min.js"></script>
 <script src="https://images.patolojiatlasi.com/annotorious/openseadragon-annotorious.min.js"></script>
 
-<script src="./openseadragon/openseadragon.min.js"></script>
-<script src="./annotorious/openseadragon-annotorious.min.js"></script>
+<script src="../openseadragon/openseadragon.min.js"></script>
+<script src="../annotorious/openseadragon-annotorious.min.js"></script>
 
 <!--Google tag(gtag.js)-->
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-DPZ6NBP0NW"></script>
@@ -113,22 +144,47 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
 <script src="script.js"></script>
 <script src="webpages.js"></script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="19&nbsp; Hamartom – Patoloji Atlası">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
+<link rel="alternate" type="application/rss+xml" title="Patoloji Atlası" href="published-3.xml" data-external="1"><meta property="og:title" content="All cases">
 <meta property="og:description" content="Tanıtım: Patoloji Atlası: Tıp Fakültesi ve Sağlık Bilimleri Öğrencileri İçin Patoloji Laboratuvar Notları. Patoloji Atlas Patoloji Notu Patoloji Ders Notları ve Patoloji Atlası Memorial Patoloji arşivinden derlenen vakalardan ve diğer kurumlardan katkı yapan meslektaşlarımızın kolleksiyonlarından oluşmaktadır.">
-<meta property="og:image" content="https://patolojiatlasi.com/screenshots/thumbnail_hamartomatouspolyp.png">
+<meta property="og:image" content="https://www.patolojiatlasi.com/screenshots/thumbnail_myxoidliposarcoma.png">
 <meta property="og:site_name" content="Patoloji Atlası">
 <meta property="og:locale" content="tr_TR">
-<meta property="og:image:height" content="744">
-<meta property="og:image:width" content="992">
-<meta name="twitter:title" content="19&nbsp; Hamartom – Patoloji Atlası">
+<meta name="twitter:title" content="All cases">
 <meta name="twitter:description" content="Tanıtım: Patoloji Atlası: Tıp Fakültesi ve Sağlık Bilimleri Öğrencileri İçin Patoloji Laboratuvar Notları. Patoloji Atlas Patoloji Notu Patoloji Ders Notları ve Patoloji Atlası Memorial Patoloji arşivinden derlenen vakalardan ve diğer kurumlardan katkı yapan meslektaşlarımızın kolleksiyonlarından oluşmaktadır.">
-<meta name="twitter:image" content="https://patolojiatlasi.com/screenshots/thumbnail_hamartomatouspolyp.png">
+<meta name="twitter:image" content="https://www.patolojiatlasi.com/screenshots/thumbnail_myxoidliposarcoma.png">
 <meta name="twitter:creator" content="%40serdarbalci">
 <meta name="twitter:site" content="%40patolojinotlari">
-<meta name="twitter:image-height" content="744">
-<meta name="twitter:image-width" content="992">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -141,7 +197,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Kenar çubuğunu değiştir" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./benign.html">Temel Tümör Patolojisi</a></li><li class="breadcrumb-item"><a href="./hamartom.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Hamartom</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../lists/published.html">Listeler</a></li><li class="breadcrumb-item"><a href="../lists/published-3.html"><span class="chapter-number">72</span>&nbsp; <span class="chapter-title">Tümü - 3</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Kenar çubuğunu değiştir" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Aramak" onclick="window.quartoOpenSearch();">
@@ -156,7 +212,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Patoloji Atlası</a> 
+      <a href="../">Patoloji Atlası</a> 
         <div class="sidebar-tools-main">
     <div class="dropdown">
       <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Share"><i class="bi bi-share"></i></a>
@@ -194,13 +250,13 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Anasayfa</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./giris.html" class="sidebar-item-text sidebar-link">
+  <a href="../giris.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Giriş</span></a>
   </div>
 </li>
@@ -219,61 +275,61 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./teknik.html" class="sidebar-item-text sidebar-link">
+  <a href="../teknik.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Patolojide Kullanılan Teknikler</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hucre-ici-birikimler.html" class="sidebar-item-text sidebar-link">
+  <a href="../hucre-ici-birikimler.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Hücre İçi Birikimler</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hucre-disi-birikimler.html" class="sidebar-item-text sidebar-link">
+  <a href="../hucre-disi-birikimler.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Hücre Dışı Birikimler</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hucre-hasari.html" class="sidebar-item-text sidebar-link">
+  <a href="../hucre-hasari.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Hücre Hasarı</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hemodinamik-bozukluklar.html" class="sidebar-item-text sidebar-link">
+  <a href="../hemodinamik-bozukluklar.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Hemodinamik Bozukluklar</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./iskemi-nekroz.html" class="sidebar-item-text sidebar-link">
+  <a href="../iskemi-nekroz.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">İskemi ve Nekroz</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./konjesyon.html" class="sidebar-item-text sidebar-link">
+  <a href="../konjesyon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Konjesyon</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./amiloid.html" class="sidebar-item-text sidebar-link">
+  <a href="../amiloid.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Amiloid birikimi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./tamir.html" class="sidebar-item-text sidebar-link">
+  <a href="../tamir.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Tamir Mekanizmaları</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./erozyon.html" class="sidebar-item-text sidebar-link">
+  <a href="../erozyon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Erozyon</span></span></a>
   </div>
 </li>
@@ -290,19 +346,19 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./akut-inflamasyon.html" class="sidebar-item-text sidebar-link">
+  <a href="../akut-inflamasyon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Akut inflamasyon</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./kronik-inflamasyon.html" class="sidebar-item-text sidebar-link">
+  <a href="../kronik-inflamasyon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Kronik inflamasyon</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./granulom.html" class="sidebar-item-text sidebar-link">
+  <a href="../granulom.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Granülamatöz İnflamasyon</span></span></a>
   </div>
 </li>
@@ -319,25 +375,25 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./virus.html" class="sidebar-item-text sidebar-link">
+  <a href="../virus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Viruslar</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./bakteri.html" class="sidebar-item-text sidebar-link">
+  <a href="../bakteri.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Bakteriler</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mantar.html" class="sidebar-item-text sidebar-link">
+  <a href="../mantar.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Mantarlar</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./parazit.html" class="sidebar-item-text sidebar-link">
+  <a href="../parazit.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Parazitler</span></span></a>
   </div>
 </li>
@@ -354,55 +410,55 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./benign.html" class="sidebar-item-text sidebar-link">
+  <a href="../benign.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Benign Tümörler</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hamartom.html" class="sidebar-item-text sidebar-link active">
+  <a href="../hamartom.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Hamartom</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./heterotopi.html" class="sidebar-item-text sidebar-link">
+  <a href="../heterotopi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Heterotopi Ektopi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./metaplazi.html" class="sidebar-item-text sidebar-link">
+  <a href="../metaplazi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Metaplazi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./karsinogenez.html" class="sidebar-item-text sidebar-link">
+  <a href="../karsinogenez.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Karsinogenez</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./malign.html" class="sidebar-item-text sidebar-link">
+  <a href="../malign.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Malign Tümör Özellikleri</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./metastaz.html" class="sidebar-item-text sidebar-link">
+  <a href="../metastaz.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Metastaz</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./tumor-yayilimi.html" class="sidebar-item-text sidebar-link">
+  <a href="../tumor-yayilimi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Başka Organlara Tümör Yayılımı</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./heterojenite.html" class="sidebar-item-text sidebar-link">
+  <a href="../heterojenite.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Tümör Heterojenitesi</span></span></a>
   </div>
 </li>
@@ -419,13 +475,13 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./venoz-invazyon.html" class="sidebar-item-text sidebar-link">
+  <a href="../venoz-invazyon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">27</span>&nbsp; <span class="chapter-title">Venöz İnvazyon</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ekstramural-venoz-invazyon.html" class="sidebar-item-text sidebar-link">
+  <a href="../ekstramural-venoz-invazyon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">28</span>&nbsp; <span class="chapter-title">Ekstramural Venöz İnvazyon</span></span></a>
   </div>
 </li>
@@ -442,7 +498,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-7" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hodgkin.html" class="sidebar-item-text sidebar-link">
+  <a href="../hodgkin.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">29</span>&nbsp; <span class="chapter-title">Hodgkin Lenfoma</span></span></a>
   </div>
 </li>
@@ -459,43 +515,43 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-8" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./gastro.html" class="sidebar-item-text sidebar-link">
+  <a href="../gastro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">30</span>&nbsp; <span class="chapter-title">Gastrointestinal Sistem</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ozofagus.html" class="sidebar-item-text sidebar-link">
+  <a href="../ozofagus.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">31</span>&nbsp; <span class="chapter-title">Özofagus</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mide.html" class="sidebar-item-text sidebar-link">
+  <a href="../mide.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">32</span>&nbsp; <span class="chapter-title">Mide Patolojisi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./gastrit.html" class="sidebar-item-text sidebar-link">
+  <a href="../gastrit.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">33</span>&nbsp; <span class="chapter-title">Gastrit</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./duodenum.html" class="sidebar-item-text sidebar-link">
+  <a href="../duodenum.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">34</span>&nbsp; <span class="chapter-title">Duodenum Patolojisi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./kolon.html" class="sidebar-item-text sidebar-link">
+  <a href="../kolon.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">35</span>&nbsp; <span class="chapter-title">Kolon Patolojisi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./crohn.html" class="sidebar-item-text sidebar-link">
+  <a href="../crohn.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">36</span>&nbsp; <span class="chapter-title">Crohn Hastalığı</span></span></a>
   </div>
 </li>
@@ -512,19 +568,19 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-9" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./karaciger-transplantasyonu.html" class="sidebar-item-text sidebar-link">
+  <a href="../karaciger-transplantasyonu.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">37</span>&nbsp; <span class="chapter-title">Karaciğer Transplantasyonu</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./karaciger-benign.html" class="sidebar-item-text sidebar-link">
+  <a href="../karaciger-benign.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">38</span>&nbsp; <span class="chapter-title">Benign Karaciğer Tümörleri</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./karaciger-malign.html" class="sidebar-item-text sidebar-link">
+  <a href="../karaciger-malign.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">39</span>&nbsp; <span class="chapter-title">Malign Karaciğer Tümörleri</span></span></a>
   </div>
 </li>
@@ -541,19 +597,19 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-10" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./pankreas-malign.html" class="sidebar-item-text sidebar-link">
+  <a href="../pankreas-malign.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">40</span>&nbsp; <span class="chapter-title">Malign Pankreas Tümörleri</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./safra-kesesi.html" class="sidebar-item-text sidebar-link">
+  <a href="../safra-kesesi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">41</span>&nbsp; <span class="chapter-title">Safra Kesesi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ampulla-vater.html" class="sidebar-item-text sidebar-link">
+  <a href="../ampulla-vater.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">42</span>&nbsp; <span class="chapter-title">Ampulla Vater</span></span></a>
   </div>
 </li>
@@ -570,7 +626,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-11" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./noroendokrin.html" class="sidebar-item-text sidebar-link">
+  <a href="../noroendokrin.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">43</span>&nbsp; <span class="chapter-title">Nöroendokrin</span></span></a>
   </div>
 </li>
@@ -587,7 +643,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-12" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mezotel.html" class="sidebar-item-text sidebar-link">
+  <a href="../mezotel.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">44</span>&nbsp; <span class="chapter-title">Abdomen</span></span></a>
   </div>
 </li>
@@ -604,31 +660,31 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-13" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./jineko.html" class="sidebar-item-text sidebar-link">
+  <a href="../jineko.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">45</span>&nbsp; <span class="chapter-title">Jinekolojik Patoloji</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./genital.html" class="sidebar-item-text sidebar-link">
+  <a href="../genital.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">46</span>&nbsp; <span class="chapter-title">Genital Sistem Patolojisi</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./serviks.html" class="sidebar-item-text sidebar-link">
+  <a href="../serviks.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">47</span>&nbsp; <span class="chapter-title">Serviks</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./endometrium.html" class="sidebar-item-text sidebar-link">
+  <a href="../endometrium.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">48</span>&nbsp; <span class="chapter-title">Endometrium</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./endometriosis.html" class="sidebar-item-text sidebar-link">
+  <a href="../endometriosis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">49</span>&nbsp; <span class="chapter-title">Endometriozis</span></span></a>
   </div>
 </li>
@@ -645,19 +701,19 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-14" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./uriner.html" class="sidebar-item-text sidebar-link">
+  <a href="../uriner.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">50</span>&nbsp; <span class="chapter-title">Üropatoloji</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./bobrek.html" class="sidebar-item-text sidebar-link">
+  <a href="../bobrek.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">51</span>&nbsp; <span class="chapter-title">Böbrek Tümörleri / Renal Tümörler</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./prostat.html" class="sidebar-item-text sidebar-link">
+  <a href="../prostat.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">52</span>&nbsp; <span class="chapter-title">Prostat</span></span></a>
   </div>
 </li>
@@ -674,13 +730,13 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-15" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hipofiz.html" class="sidebar-item-text sidebar-link">
+  <a href="../hipofiz.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">53</span>&nbsp; <span class="chapter-title">Hipofiz Adenomu</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./adrenal.html" class="sidebar-item-text sidebar-link">
+  <a href="../adrenal.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">54</span>&nbsp; <span class="chapter-title">Adrenal Bez Patolojisi</span></span></a>
   </div>
 </li>
@@ -697,7 +753,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-16" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./meme.html" class="sidebar-item-text sidebar-link">
+  <a href="../meme.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">55</span>&nbsp; <span class="chapter-title">Meme Tümörleri</span></span></a>
   </div>
 </li>
@@ -714,19 +770,19 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-17" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./nazofarenks.html" class="sidebar-item-text sidebar-link">
+  <a href="../nazofarenks.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">56</span>&nbsp; <span class="chapter-title">Nazofarenks</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./kulak.html" class="sidebar-item-text sidebar-link">
+  <a href="../kulak.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">57</span>&nbsp; <span class="chapter-title">Kulak</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./tukuruk.html" class="sidebar-item-text sidebar-link">
+  <a href="../tukuruk.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">58</span>&nbsp; <span class="chapter-title">Tükürük Bezi</span></span></a>
   </div>
 </li>
@@ -743,19 +799,19 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-18" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./gliom.html" class="sidebar-item-text sidebar-link">
+  <a href="../gliom.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">59</span>&nbsp; <span class="chapter-title">Gliomlar</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./meningiom.html" class="sidebar-item-text sidebar-link">
+  <a href="../meningiom.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">60</span>&nbsp; <span class="chapter-title">Meningiom</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./sss-vaskuler.html" class="sidebar-item-text sidebar-link">
+  <a href="../sss-vaskuler.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">61</span>&nbsp; <span class="chapter-title">Vasküler Lezyonlar</span></span></a>
   </div>
 </li>
@@ -772,7 +828,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-19" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./kemik.html" class="sidebar-item-text sidebar-link">
+  <a href="../kemik.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">62</span>&nbsp; <span class="chapter-title">Kemik Tümörleri</span></span></a>
   </div>
 </li>
@@ -789,7 +845,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-20" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./adipoz.html" class="sidebar-item-text sidebar-link">
+  <a href="../adipoz.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">63</span>&nbsp; <span class="chapter-title">Adipöz Doku Patolojisi</span></span></a>
   </div>
 </li>
@@ -806,7 +862,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-21" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./plasenta.html" class="sidebar-item-text sidebar-link">
+  <a href="../plasenta.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">64</span>&nbsp; <span class="chapter-title">Plasenta</span></span></a>
   </div>
 </li>
@@ -827,31 +883,31 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-23" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./gbd.html" class="sidebar-item-text sidebar-link">
+  <a href="../gbd.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">65</span>&nbsp; <span class="chapter-title">GBDAtlas</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./hacettepecom.html" class="sidebar-item-text sidebar-link">
+  <a href="../hacettepecom.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">66</span>&nbsp; <span class="chapter-title">Hacettepe Ayın Vakası</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./bs.html" class="sidebar-item-text sidebar-link">
+  <a href="../bs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">67</span>&nbsp; <span class="chapter-title">BSAtlas</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ice.html" class="sidebar-item-text sidebar-link">
+  <a href="../ice.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">68</span>&nbsp; <span class="chapter-title">ICEtlas</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./wsi.html" class="sidebar-item-text sidebar-link">
+  <a href="../wsi.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">69</span>&nbsp; <span class="chapter-title">Benzer Sayfalar</span></span></a>
   </div>
 </li>
@@ -863,7 +919,7 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./referanslar.html" class="sidebar-item-text sidebar-link">
+  <a href="../referanslar.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Referanslar</span></a>
   </div>
 </li>
@@ -882,31 +938,31 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-26" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./lists/published.html" class="sidebar-item-text sidebar-link">
+  <a href="../lists/published.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">70</span>&nbsp; <span class="chapter-title">Tümü</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./lists/published-2.html" class="sidebar-item-text sidebar-link">
+  <a href="../lists/published-2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">71</span>&nbsp; <span class="chapter-title">Tümü - 2</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./lists/published-3.html" class="sidebar-item-text sidebar-link">
+  <a href="../lists/published-3.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">72</span>&nbsp; <span class="chapter-title">Tümü - 3</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./lists/stains.html" class="sidebar-item-text sidebar-link">
+  <a href="../lists/stains.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">73</span>&nbsp; <span class="chapter-title">Özel Boyalar</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./lists/pancreatobiliary.html" class="sidebar-item-text sidebar-link">
+  <a href="../lists/pancreatobiliary.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">74</span>&nbsp; <span class="chapter-title">pancreatobiliary</span></span></a>
   </div>
 </li>
@@ -927,37 +983,37 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
       <ul id="quarto-sidebar-section-28" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./yazarlar.html" class="sidebar-item-text sidebar-link" target="_blank">
+  <a href="../yazarlar.html" class="sidebar-item-text sidebar-link" target="_blank">
  <span class="menu-text"><span class="chapter-number">A</span>&nbsp; <span class="chapter-title">Yazarlar ve Katkıda Bulunanlar</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./katki.html" class="sidebar-item-text sidebar-link">
+  <a href="../katki.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Katkıda bulunun</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./yorum.html" class="sidebar-item-text sidebar-link">
+  <a href="../yorum.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">C</span>&nbsp; <span class="chapter-title">Yorum ekleyin</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./yonetim-gelistirme.html" class="sidebar-item-text sidebar-link">
+  <a href="../yonetim-gelistirme.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">D</span>&nbsp; <span class="chapter-title">Patoloji Atlası Nasıl Geliştiriliyor?</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./katki.html" class="sidebar-item-text sidebar-link">
+  <a href="../katki.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">İletişim</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./artirilmis-gerceklik.html" class="sidebar-item-text sidebar-link">
+  <a href="../artirilmis-gerceklik.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">F</span>&nbsp; <span class="chapter-title">Artırılmış Gerçeklik</span></span></a>
   </div>
 </li>
@@ -973,33 +1029,23 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
     <h2 id="toc-title">İçindekiler</h2>
    
   <ul>
-  <li><a href="#sec-hamartomatoz-polip" id="toc-sec-hamartomatoz-polip" class="nav-link active" data-scroll-target="#sec-hamartomatoz-polip"><span class="header-section-number">19.1</span> Hamartomatöz Polip</a></li>
-  <li><a href="#sec-schwann-hucreli-hamartom-kolon-polibi" id="toc-sec-schwann-hucreli-hamartom-kolon-polibi" class="nav-link" data-scroll-target="#sec-schwann-hucreli-hamartom-kolon-polibi"><span class="header-section-number">19.2</span> Kolon polibinde Schwann hücreli hamartom</a></li>
+  <li><a href="#all-cases" id="toc-all-cases" class="nav-link active" data-scroll-target="#all-cases"><span class="header-section-number">72.1</span> All Cases</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./benign.html">Temel Tümör Patolojisi</a></li><li class="breadcrumb-item"><a href="./hamartom.html"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Hamartom</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../lists/published.html">Listeler</a></li><li class="breadcrumb-item"><a href="../lists/published-3.html"><span class="chapter-number">72</span>&nbsp; <span class="chapter-title">Tümü - 3</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-hamartom" class="quarto-section-identifier"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Hamartom</span></span></h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">hamartom</div>
-  </div>
-  </div>
+<h1 class="title"><span class="chapter-number">72</span>&nbsp; <span class="chapter-title">published</span></h1>
+</div>
 
 
 
 <div class="quarto-title-meta column-body">
 
     
-    <div>
-    <div class="quarto-title-meta-heading">Yayınlanma Tarihi</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">23 Haziran 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -1009,48 +1055,108 @@ gtag('config', 'G-7BT7Q4FLT9', { 'anonymize_ip': true});
 </header>
 
 
-<section id="sec-hamartomatoz-polip" class="level2 cell" data-number="19.1">
-<h2 data-number="19.1" class="anchored" data-anchor-id="sec-hamartomatoz-polip"><span class="header-section-number">19.1</span> Hamartomatöz Polip</h2>
-</section>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">WSI - Link</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">WSI</a></li></ul>
-<div class="tab-content">
-<div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<div class="cell">
-<p><a href="https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html"><img src="./screenshots/thumbnail_hamartomatouspolyp.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-</div>
-<div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/hamartomatouspolyp/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-</div>
-</div>
-</div>
-<section id="sec-schwann-hucreli-hamartom-kolon-polibi" class="level2 cell" data-number="19.2">
-<h2 data-number="19.2" class="anchored" data-anchor-id="sec-schwann-hucreli-hamartom-kolon-polibi"><span class="header-section-number">19.2</span> Kolon polibinde Schwann hücreli hamartom</h2>
-</section>
-<div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-2-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-1" role="tab" aria-controls="tabset-2-1" aria-selected="true">WSI - Link</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-2-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-2-2" role="tab" aria-controls="tabset-2-2" aria-selected="false">WSI</a></li></ul>
-<div class="tab-content">
-<div id="tabset-2-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-2-1-tab">
-<div class="cell">
-<p><a href="https://images.patolojiatlasi.com/schwanncellhamartoma/HE.html"><img src="./screenshots/thumbnail_schwanncellhamartoma.png" class="img-fluid" style="width:25.0%" alt="Tam Ekran Görmek İçin Resmi Tıklayın"></a> <a href="https://images.patolojiatlasi.com/schwanncellhamartoma/HE.html">Tam Ekran Görmek İçin Resmi Tıklayın</a></p>
-</div>
-</div>
-<div id="tabset-2-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-2-2-tab">
-<div class="cell">
-<p>Mikroskopik görüntüleri inceleyin:</p>
-<iframe src="https://images.patolojiatlasi.com/schwanncellhamartoma/HE.html" style="height:600px;width:100%;" data-external="1">
-</iframe>
-</div>
-</div>
+<section id="all-cases" class="level2" data-number="72.1">
+<h2 data-number="72.1" class="anchored" data-anchor-id="all-cases"><span class="header-section-number">72.1</span> All Cases</h2>
+<div id="listing-case-list" class="quarto-listing quarto-listing-container-custom">
+
+  <style>
+    .list {
+      display: flex;
+      flex-wrap: wrap;
+      list-style-type: none;
+      padding: 0;
+    }
+
+    .list li {
+      margin: 10px;
+      border: 2px solid #ccc;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .list li a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .list img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+
+    .list li {
+      flex: 0 1 23%; /* Four items per row with some margin */
+    }
+
+    @media (max-width: 768px) {
+      .list li {
+        flex: 0 1 48%; /* Two items per row on smaller screens */
+      }
+    }
+
+    @media (max-width: 480px) {
+      .list li {
+        flex: 0 1 98%; /* One item per row on very small screens */
+      }
+    }
+  </style>
+
+  <ul class="list">
+    
+      <li data-index="0" data-listing-date-sort="1709337600000">
+        <a href="https://images.patolojiatlasi.com/myxoidliposarcoma/HE.html" target="_blank">
+          <img src="https://www.patolojiatlasi.com/screenshots/thumbnail_myxoidliposarcoma.png" alt="image">
+        </a>
+      </li>
+    
+      <li data-index="1" data-listing-date-sort="1709337600000">
+        <a href="https://images.patolojiatlasi.com/helicobacterpylori/HE.html" target="_blank">
+          <img src="https://www.patolojiatlasi.com/screenshots/thumbnail_helicobacterpylori.png" alt="image">
+        </a>
+      </li>
+    
+      <li data-index="2" data-listing-date-sort="1708214400000">
+        <a href="https://images.patolojiatlasi.com/amyloid/crystalviolet.html" target="_blank">
+          <img src="https://www.patolojiatlasi.com/screenshots/thumbnail_crystalviolet.png" alt="image">
+        </a>
+      </li>
+    
+      <li data-index="3" data-listing-date-sort="1708214400000">
+        <a href="https://images.patolojiatlasi.com/congored/congored.html" target="_blank">
+          <img src="https://www.patolojiatlasi.com/screenshots/thumbnail_congored.png" alt="image">
+        </a>
+      </li>
+    
+      <li data-index="4" data-listing-date-sort="1708214400000">
+        <a href="https://images.patolojiatlasi.com/helicobacterpylori/warthinstarry.html" target="_blank">
+          <img src="https://www.patolojiatlasi.com/screenshots/thumbnail_helicobacterpyloriWS.png" alt="image">
+        </a>
+      </li>
+    
+      <li data-index="5" data-listing-date-sort="1708214400000">
+        <a href="https://images.patolojiatlasi.com/helicobacterpylori/giemsa.html" target="_blank">
+          <img src="https://www.patolojiatlasi.com/screenshots/thumbnail_helicobacterpyloriGiemsa.png" alt="image">
+        </a>
+      </li>
+    
+      <li data-index="6" data-listing-date-sort="1708214400000">
+        <a href="https://images.patolojiatlasi.com/helicobacterpylori/IHC.html" target="_blank">
+          <img src="https://www.patolojiatlasi.com/screenshots/thumbnail_helicobacterpyloriIHC.png" alt="image">
+        </a>
+      </li>
+    
+  </ul>
+
+<div class="listing-no-matching d-none">
+Eşleşen öğe yok
 </div>
 </div>
 
 
+
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -1628,13 +1734,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation column-body">
   <div class="nav-page nav-page-previous">
-      <a href="./benign.html" class="pagination-link" aria-label="Benign Tümörler">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Benign Tümörler</span></span>
+      <a href="../lists/published-2.html" class="pagination-link" aria-label="Tümü - 2">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">71</span>&nbsp; <span class="chapter-title">Tümü - 2</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./heterotopi.html" class="pagination-link" aria-label="Heterotopi Ektopi">
-        <span class="nav-page-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Heterotopi Ektopi</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../lists/stains.html" class="pagination-link" aria-label="Özel Boyalar">
+        <span class="nav-page-text"><span class="chapter-number">73</span>&nbsp; <span class="chapter-title">Özel Boyalar</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
